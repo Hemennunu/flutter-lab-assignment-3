@@ -1,4 +1,4 @@
-# flutter_lab_assignment_3
+# flutter-lab-assignment-3
 
 A new Flutter project.
 
